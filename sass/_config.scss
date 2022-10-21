@@ -1,0 +1,16 @@
+:root {
+  // colors
+  --clr-white: 0, 0%, 98%;
+  --clr-gray: 0, 0%, 41%;
+  --clr-black: 0, 0%, 8%;
+
+  // fonts
+  --ff-primary: 'Epilogue', sans-serif;
+
+  --fs-h1: clamp(2.25rem, calc(1rem + 4.5vw), 4.5rem);
+
+  --fw-500: 500;
+  --fw-700: 700;
+
+  --lh-intro: 1.5rem;
+}
